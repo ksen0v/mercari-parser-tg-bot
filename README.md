@@ -1,4 +1,4 @@
-## Economist Clone for Crypto accept applications
+## Mercari Parser Telegram Bot - Notification for New Items
 
 - using Mercari API (lib. mercapi fork by ksen0v)
 - using Aiogram 3.20.0
