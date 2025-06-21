@@ -11,7 +11,7 @@
   ```sh
   pip intall -r requirements.txt
   ```
-- Clone mercapi fork by ksen0v in your environment:
+- Install mercapi fork by ksen0v in your environment:
  
   [Mercapi fork by ksen0v](https://github.com/ksen0v/mercapi)
 
