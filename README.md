@@ -13,9 +13,7 @@
   ```
 - Install mercapi fork by ksen0v:
  
-  ```sh
-  [pip intall -r requirements.txt](https://github.com/ksen0v/mercapi)
-  ```
+  [Mercapi fork by ksen0v](https://github.com/ksen0v/mercapi)
 
 - First Run for create config file config.json:
 
